@@ -1,0 +1,11 @@
+{
+  "eslint.packageManager": "yarn",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "editor.formatOnSave": true,
+  "search.exclude": {
+    "**/dist/**": true
+  },
+  "editor.tabSize": 2
+}
